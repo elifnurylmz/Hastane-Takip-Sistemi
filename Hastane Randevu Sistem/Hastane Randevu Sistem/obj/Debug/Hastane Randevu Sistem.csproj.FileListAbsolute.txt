@@ -1,0 +1,22 @@
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\bin\Debug\Hastane Randevu Sistem.exe.config
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\bin\Debug\Hastane Randevu Sistem.exe
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\bin\Debug\Hastane Randevu Sistem.pdb
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane Randevu Sistem.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormBilgiGüncelle.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormBransPaneli.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormDoktorBilgiGüncelle.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormDoktorDetay.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormDoktorGiris.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormDoktorPaneli.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormDuyurular.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormGirisler.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormHastaDetay.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormHastaKayit.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormRandevuListesi.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormSekreterDetay.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormSekreterGiris.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.FormHastaGiris.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane_Randevu_Sistem.Properties.Resources.resources
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane Randevu Sistem.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane Randevu Sistem.exe
+C:\Users\PC\source\repos\Hastane Randevu Sistem\Hastane Randevu Sistem\obj\Debug\Hastane Randevu Sistem.pdb
